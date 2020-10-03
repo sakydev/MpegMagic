@@ -1,4 +1,4 @@
-# wolfmagic
+# MpegMagic
 Discover, Download, Convert &amp; Edit Videos, Photos &amp; Music
 
 ## Introduction
